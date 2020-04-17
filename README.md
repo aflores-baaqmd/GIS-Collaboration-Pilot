@@ -22,9 +22,9 @@ Add links to:
 
 ## Analysis Parameters
 
-•	The Air District will work with MTC staff to set up a test project that includes a well-documented geospatial database and ESRI “GIS project” that can support collaboration, uses best practices and standards for documentation and transparency. The test project will include one or two regional datasets, for example city and county boundaries and/or census tract geographies. The goal of this test project is to develop and refine the protocols and practices that will be used to create more complex geospatial databases and GIS projects. 
+The Air District will work with MTC staff to set up a test project that includes a well-documented geospatial database and ESRI “GIS project” that can support collaboration, uses best practices and standards for documentation and transparency. The test project will include one or two regional datasets, for example city and county boundaries and/or census tract geographies. The goal of this test project is to develop and refine the protocols and practices that will be used to create more complex geospatial databases and GIS projects. 
 
-•	Deliverables include:
+Deliverables include:
 
 - A jointly prepared data access protocol and/or associated scripts that accesses/extracts the test case datasets;
 - A jointly prepared ESRI GIS project; and
