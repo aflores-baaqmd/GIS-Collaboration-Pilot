@@ -17,7 +17,7 @@ The purpose of this dataset is to help identify a boundary for the [Community Ai
 
 ## Methodology applied to solve problem
 
-## Expected Outcomes (if any)?
+## Expected Outcomes
 
 Community boundary will be used by anyone conducting spatial analysis for the Richmond-San Pablo community as defined under AB617.
 
