@@ -10,7 +10,6 @@ This project is a proof of concept for how the Air District might better manage 
 
 Add links to:
 - [Tasks on Asana](https://app.asana.com/0/1166292188151673/1166292188151728)
-- [ArcGIS Online](https://baaqmd.maps.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=4bf66f78890c481290a68b82da8a684d) 
 
 
 ## Data Sources
@@ -18,6 +17,7 @@ Add links to:
 | __Authority__ | __File Name__ | __Download Site__ | __Source Date__ |
 |-------------|------------|------------|------------|
 | BAAQMD         | AB617 Richmond-San Pablo Community Boundary and Focus Areas | [Bay Area Metro Data](https://data.bayareametro.gov/)    | June 2019     |
+| BAAQMD         | AB617 Richmond-San Pablo Community Boundary and Focus Areas | [ArcGIS Online](https://baaqmd.maps.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=4bf66f78890c481290a68b82da8a684d)     | June 2019     |
 
 
 ## Analysis Parameters
