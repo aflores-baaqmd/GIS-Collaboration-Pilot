@@ -33,6 +33,10 @@ Deliverables include:
 
 ## Methodology applied to solve problem
 
+- Training on resources
+- Data finalization and uploads
+- Data metadata
+- Data documentation
 
 
 ## Expected Outcomes
