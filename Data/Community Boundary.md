@@ -4,7 +4,7 @@ This file contains the Richmond-San Pablo AB617 community boundary as defined by
 
 ## Problem Statement
 
-The purpose of this dataset is to help identify a boundary for the Community Emissions Reduction Plan (CERP).
+The purpose of this dataset is to help identify a boundary for the [Community Air Monitoring and Emissions Reduction Plan](https://www.baaqmd.gov/community-health/community-health-protection-program/richmond-area-community-health-protection-program).
 
 ## Data Sources
 
