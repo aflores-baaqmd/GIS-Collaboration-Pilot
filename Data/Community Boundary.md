@@ -1,6 +1,6 @@
 # Richmond-San Pablo Community Boundary and Focus Areas (2019)
 
-This file contains the Community Boundary as defined by the Richmond-San Pablo Steering Committee on June 2019. 
+This file contains the Richmond-San Pablo AB617 community boundary as defined by the Steering Committee on June 2019. 
 
 ## Problem Statement
 
