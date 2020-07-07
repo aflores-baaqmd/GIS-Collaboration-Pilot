@@ -1,6 +1,6 @@
 # GIS-Collaboration-Pilot (2020)
 
-This repository provides detailed documention of work performed by Air District and MTC staff for the MTC-BAAQMD Collaboration Pilot Project.
+This repository provides detailed documentation of work performed by Air District and MTC staff for the MTC-BAAQMD Collaboration Pilot Project.
 
 ## Problem Statement
 
